@@ -162,6 +162,7 @@ private WebDriver driver;
 		btnRemoverDadosProcesso.click();
 
 		Thread.sleep(1000);
+		
 	}
 
 	// Editar dados do processo
