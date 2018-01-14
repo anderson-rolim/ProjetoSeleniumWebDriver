@@ -1,0 +1,13 @@
+pages/BasePage.class
+pages/FormularioPage.class
+pages/CadastroPages.class
+pages/FormPecaPage.class
+suporte/Generator.class
+suporte/Screenshot.class
+pages/TracksPage.class
+meuProjetoTest/meu_Projeto_Test/AppTest.class
+tests/LoginTest.class
+pages/LoginPage.class
+tests/criacaoDeProcessoPageObjectsTest.class
+tests/tests.class
+suporte/Web.class
