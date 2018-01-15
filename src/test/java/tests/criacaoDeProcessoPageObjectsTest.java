@@ -42,8 +42,7 @@ public class criacaoDeProcessoPageObjectsTest {
 			.digiteEmail(email)
 			.selecioneUmRelacionamento()
 			.digiteUmTextoParaAutomacao(textoParaOProcesso)
-			.submeterFormulario();
-		
+			.submeterFormulario();	
 	}
 
 	
